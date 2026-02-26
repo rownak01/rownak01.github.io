@@ -1,5 +1,5 @@
 ---
-title: "Your Name"
+title: "Md Ragib Rownak"
 image: images/profile.jpg
 about:
   template: trestles
@@ -8,29 +8,29 @@ about:
   links:
     - icon: github
       text: GitHub
-      href: https://github.com/YOURUSERNAME
+      href: https://github.com/rownak01
     - icon: envelope
       text: Email
-      href: mailto:your.email@university.edu
+      href: mailto:rownak.1@osu.edu
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com/in/YOURUSERNAME
+      href: https://linkedin.com/in/ragibrownak
 ---
 
 ## About Me
 
 <!-- REPLACE this section with your own bio -->
 
-I am a [your year] student in [your department] at [your university].
-I work in the [Lab Name] on [brief description of research].
+I am a PhD candidate in Mechanical Engineering at The Ohio State University (Center for Automotive Research), specializing in aging-aware optimal control of electrified powertrains. My work bridges physics-based component aging models, transformer-based battery degradation modeling, and learning-based control algorithms to improve the efficiency, reliability, and sustainability of next-generation hybrid and electric vehicles. I have a strong background in control systems, machine learning, and automotive engineering, with a passion for developing innovative solutions to complex problems in the field of electrified transportation. My research aims to advance the state-of-the-art in battery management systems and contribute to the broader goal of sustainable mobility.
 
 ## Research Interests
 
-- Interest 1
-- Interest 2
-- Interest 3
+- Artificial intelligence, learning-based control approach, machine learning, and generative AI
+- Optimization and control of complex engineering systems
+- Data-driven modeling and decision-making for efficiency and safety
 
 ## Education
 
-- **[Degree]** in [Field], [University], [Year (expected)]
-- **[Degree]** in [Field], [University], [Year]
+- **[PhD]** in [Mechanical Engineering], [The Ohio State University], [2026 (expected)]
+- **[MSc]** in [Mechanical Engineering], [The Ohio State University], [2023]
+
