@@ -1,0 +1,43 @@
+---
+title: "Publications"
+---
+
+*Google Scholar: [profile](https://scholar.google.com/citations?user=YHr3XgYAAAAJ&hl=en) | 22 citations | h-index: 3*
+
+---
+
+## First-Author -- Electrified Powertrains & AI/ML
+
+1. **M.R. Rownak**, W. Jaleel, A. Hanif, M.Q. Fahim, D.D. Le, H. Anwar, M. Nelson, & Q. Ahmed (2026). "Physics-Aware Deep Reinforcement Learning for Energy and Aging Management in Electrified Powertrains." *Under review.*
+
+2. **M.R. Rownak**, A. Hanif, M.Q. Fahim, D.D. Le, H. Anwar, W. Jaleel, M. Nelson, & Q. Ahmed (2025). "Learning Battery Aging Dynamics using Physics-Informed Transformer." *Submitted to IEEE Transactions on Transportation Electrification.*
+
+3. **M.R. Rownak**, A. Hanif, Q. Ahmed, M.Q. Fahim, H. Anwar, H. Li, D.D. Le, & M. Nelson (2025). "Robustness and Sensitivity of Aging Models for Batteries and Electric Machines in Heavy-Duty Electrified Powertrains." In *IEEE ITEC 2025.*
+
+4. **M.R. Rownak**, A. Hanif, Q. Ahmed, M.Q. Fahim, H. Anwar, H. Li, D. Le, & M. Nelson (2025). "Powertrain Components Aging Model Selection for Energy Efficient Vehicles: Selection Strategy and Challenges." *SAE WCX 2025.*
+
+## Co-Authored -- Electrified Powertrains
+
+5. W. Jaleel, **M.R. Rownak**, A. Hanif, S.G. Bhatti, & Q. Ahmed (2025). "Sequence Aware SAC Control for Engine Fuel Consumption Optimization in Electrified Powertrain." *arXiv:2508.04874.*
+
+## First-Author -- Human Reliability & Optimization
+
+6. **M.R. Rownak**, X. Diao, & C. Smidts (2024). "Human Reliability Under Physical Security Threats: Modeling and Experimental Design." In *IEEE RAMS 2024*, pp. 1--6.
+
+7. **M.R. Rownak** (2023). *Uncertainty in Multi-Objective Optimization: Weighted Entropy and Partition-Based Uncertainty Reduction.* Master's Thesis, The Ohio State University.
+
+## Co-Authored -- Nuclear Safety & Sensor Systems
+
+8. X. Diao, **M.R. Rownak**, S. Olatubosun, P.K. Vaddi, & C. Smidts (2025). "A multiple-criteria sensor selection framework based on qualitative physical models." *Advanced Engineering Informatics*, 65, 103228.
+
+9. X. Diao, **M.R. Rownak**, & C. Smidts (2024). "Design and Implementation of a Virtual Reality Environment for Human Reliability Assessment Under Physical Security Threats." *PBNC 2024*, pp. 716--725.
+
+10. X. Diao, **M.R. Rownak**, S. Olatubosun, P.K. Vaddi, & C. Smidts (2023). "Selection Criteria for Optimal Sensor Placement in Online Monitoring Systems." *13th NPIC&HMIT*, pp. 1568--1577.
+
+11. S.A. Olatubosun, **M.R. Rownak**, Y. Zhao, C. Smidts, & A. Shafieezadeh (2022). "Human reliability assessment for physical security: human responses under extreme threats." In *PSAM 16*, Honolulu, HI.
+
+## Co-Authored -- Nanoscale Heat Transfer (Undergraduate)
+
+12. M.N. Hasan, S. Paul, **M.R. Rownak**, & C. Akhter (2019). "Atomic insights of thin-film evaporation over biphilic surfaces." *Heat Transfer -- Asian Research*, 48, 4283--4300.
+
+13. S. Paul, **M.R. Rownak**, & M.N. Hasan (2020). "Molecular dynamics study on the effect of hydrophilicity on thin film evaporation over biphilic surface." *Proc. IMechE Part N: J. Nanomaterials, Nanoengineering and Nanosystems.*

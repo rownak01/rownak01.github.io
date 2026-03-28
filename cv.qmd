@@ -1,21 +1,52 @@
 ---
-title: "CV"
+title: "Curriculum Vitae"
+---
+
+You can download my full CV here: [Download CV (PDF)](files/CV.pdf){target="_blank"}
+
 ---
 
 ## Education
 
-| Degree | Field | Institution | Year |
-|--------|-------|-------------|------|
-| B.S.   | Your Field | Your University | Expected 20XX |
+| Degree | Institution | Year |
+|--------|-------------|------|
+| Ph.D. in Mechanical Engineering | The Ohio State University | 2026 (expected) |
+| M.S. in Mechanical Engineering | The Ohio State University | 2023 |
+| B.S. in Mechanical Engineering | Bangladesh University of Engineering & Technology | 2018 |
 
-## Experience
+## Professional Experience
 
-### Research Assistant — [Lab Name]
-*[University], [Start Date] – Present*
+### Graduate Research Associate
+*The Ohio State University, Center for Automotive Research* | Jan 2021 -- Dec 2025
 
-- Brief description of your work
+- Designed physics-aware deep reinforcement learning (SAC, PPO, GRPO) frameworks for hybrid-electric powertrain energy management, achieving fuel consumption within 1.1--4.8% of the dynamic programming optimum while reducing battery degradation by up to 88%.
+- Developed a Physics-Informed Transformer Model for battery capacity fade prediction, reducing estimation error to 2.96% across 17 cells from 5 experimental datasets.
+- Built and validated physics-based aging models for battery, electric machine, and aftertreatment system, integrated into a forward-looking MATLAB/Simulink powertrain simulator.
+- Proposed a critic-free policy optimization method (A-GRPO) using Transformer policies and trajectory-level advantage ranking for long-horizon constrained control.
+- Delivered technical results to Cummins Inc. through regular milestone reviews and progress reporting.
 
-## Skills
+### Graduate Teaching Assistant
+*The Ohio State University* | Jan 2026 -- Present
 
-- **Programming:** Python, MATLAB, etc.
-- **Tools:** Git, LaTeX, etc.
+- Lead recitation sections and office hours for ME 3501: Introduction to Engineering Thermodynamics.
+
+### Lecturer, Dept. of Mechanical Engineering
+*Bangladesh Army University of Science and Technology* | Jun 2019 -- Dec 2020
+
+- Taught undergraduate courses (Numerical Analysis, Engineering Mechanics, Mechanics of Materials).
+- Served as Departmental Program Coordinator.
+
+## Technical Skills
+
+| Category | Skills |
+|----------|--------|
+| **Languages** | Python, MATLAB, C, C++ |
+| **AI/ML** | PyTorch, TensorFlow, Scikit-learn; Transformers, RNN/LSTM; RL (SAC, PPO, TD3, GRPO) |
+| **Optimization** | Dynamic Programming, MINLP, MDP, NSGA-II, Multi-Objective Optimization, CasADi |
+| **Modeling & Sim** | MATLAB/Simulink, LAMMPS |
+| **Tools** | Git, LaTeX, CUDA, Docker, AutoCAD, SOLIDWORKS |
+
+## Awards
+
+- University Merit Scholarship, Dept. of Mechanical Engineering, BUET (2014)
+- Dean's List Award, Dept. of Mechanical Engineering, BUET (2015, 2017)

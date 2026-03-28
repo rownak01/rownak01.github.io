@@ -14,23 +14,42 @@ about:
       href: mailto:rownak.1@osu.edu
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com/in/ragibrownak
+      href: https://www.linkedin.com/in/ragibrownak
+    - text: Google Scholar
+      href: https://scholar.google.com/citations?user=YHr3XgYAAAAJ&hl=en
 ---
 
 ## About Me
 
-<!-- REPLACE this section with your own bio -->
+I am a PhD candidate in Mechanical Engineering at [The Ohio State University](https://www.osu.edu/) ([Center for Automotive Research](https://car.osu.edu/)), graduating in December 2026. My research focuses on **aging-aware optimal control of electrified powertrains**, where I develop AI/ML-driven solutions that bridge physics-based component aging models with learning-based control algorithms.
 
-I am a PhD candidate in Mechanical Engineering at The Ohio State University (Center for Automotive Research), specializing in aging-aware optimal control of electrified powertrains. My work bridges physics-based component aging models, transformer-based battery degradation modeling, and learning-based control algorithms to improve the efficiency, reliability, and sustainability of next-generation hybrid and electric vehicles. I have a strong background in control systems, machine learning, and automotive engineering, with a passion for developing innovative solutions to complex problems in the field of electrified transportation. My research aims to advance the state-of-the-art in battery management systems and contribute to the broader goal of sustainable mobility.
+I work at the intersection of **deep reinforcement learning**, **Transformer-based generative models**, and **physics-informed modeling** to improve the efficiency, reliability, and sustainability of next-generation hybrid and electric vehicles. My work is conducted in collaboration with [Cummins Inc.](https://www.cummins.com/)
+
+Prior to my PhD, I served as a Lecturer in Mechanical Engineering at Bangladesh Army University of Science and Technology, and I hold a B.S. from Bangladesh University of Engineering and Technology (BUET).
 
 ## Research Interests
 
-- Artificial intelligence, learning-based control approach, machine learning, and generative AI
-- Optimization and control of complex engineering systems
-- Data-driven modeling and decision-making for efficiency and safety
+- AI/ML for control and decision-making in complex engineering systems
+- Deep reinforcement learning (SAC, PPO, GRPO) for real-time optimal control
+- Physics-informed generative models (Transformers) for degradation prediction
+- Multi-objective optimization under uncertainty
+- Sustainable and intelligent transportation and energy systems
 
 ## Education
 
-- **[PhD]** in [Mechanical Engineering], [The Ohio State University], [2026 (expected)]
-- **[MSc]** in [Mechanical Engineering], [The Ohio State University], [2023]
+**The Ohio State University** | Columbus, OH
 
+- Ph.D. in Mechanical Engineering | Jan 2021 -- Dec 2026 (expected)
+- M.S. in Mechanical Engineering | Dec 2023
+
+**Bangladesh University of Engineering & Technology** | Dhaka, Bangladesh
+
+- B.S. in Mechanical Engineering | Oct 2018
+
+## News
+
+- **Mar 2026** -- Submitted "Ranking-Augmented Policy Optimization for Constrained Control" to IEEE CDC
+- **Feb 2026** -- New preprint: "Physics-Aware Deep Reinforcement Learning for Energy and Aging Management in Electrified Powertrains"
+- **Dec 2025** -- Preprint posted: "Learning Battery Aging Dynamics using Physics-Informed Transformer"
+- **Jun 2025** -- Presenting at IEEE ITEC 2025 on aging model robustness for heavy-duty EVs
+- **Apr 2025** -- Paper presented at SAE WCX 2025 on powertrain aging model selection

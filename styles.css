@@ -1,14 +1,51 @@
-/* Custom styles for your academic site */
-/* Feel free to modify colors, fonts, etc. */
+/* Custom styles for academic site */
 
-/* Make the about page image a bit larger on wide screens */
+/* Slightly tighter line spacing for readability */
+p {
+  line-height: 1.6;
+}
+
+/* About page image sizing */
 @media (min-width: 992px) {
   .about-entity .about-image {
     max-width: 250px;
   }
 }
 
-/* Slightly tighter line spacing for readability */
-p {
-  line-height: 1.6;
+/* Section dividers in research/publications */
+hr {
+  border: none;
+  border-top: 1px solid #ddd;
+  margin: 2em 0;
+}
+
+/* Publication list styling */
+.publications ol {
+  padding-left: 1.5em;
+}
+
+/* Table styling */
+table {
+  width: 100%;
+}
+
+th {
+  text-align: left;
+  border-bottom: 2px solid #333;
+  padding: 0.5em 0.75em;
+}
+
+td {
+  padding: 0.4em 0.75em;
+  border-bottom: 1px solid #eee;
+}
+
+/* News items on homepage */
+ul li strong {
+  color: #2c3e50;
+}
+
+/* Navbar tweaks */
+.navbar {
+  font-size: 0.95rem;
 }

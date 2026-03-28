@@ -3,9 +3,9 @@ project:
   output-dir: _site
 
 website:
-  title: "Md Ragib Rownak"                    # <-- CHANGE THIS
-  description: "PhD Candidate, The Ohio State University" # <-- CHANGE THIS
-  site-url: https://rownak01.github.io  # <-- CHANGE THIS
+  title: "Md Ragib Rownak"
+  description: "PhD Candidate in Mechanical Engineering, The Ohio State University"
+  site-url: https://rownak01.github.io
 
   navbar:
     left:
@@ -13,26 +13,29 @@ website:
         text: Home
       - href: research.qmd
         text: Research
+      - href: publications.qmd
+        text: Publications
       - href: cv.qmd
         text: CV
-      - href: posts.qmd
-        text: Blog
     right:
       - icon: github
-        href: https://github.com/rownak01  # <-- CHANGE THIS
+        href: https://github.com/rownak01
+      - icon: linkedin
+        href: https://www.linkedin.com/in/ragibrownak/
+      - text: Scholar
+        href: https://scholar.google.com/citations?user=YHr3XgYAAAAJ&hl=en
       - icon: envelope
-        href: mailto:rownak.1@osu.edu  # <-- CHANGE THIS
+        href: mailto:rownak.1@osu.edu
 
   page-footer:
     center: |
-      Built with [Quarto](https://quarto.org/) · © 2025 Md Ragib Rownak
+      Built with [Quarto](https://quarto.org/) · &copy; 2026 Md Ragib Rownak
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
-    code-fold: true
 
 execute:
   freeze: auto
