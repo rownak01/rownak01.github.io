@@ -8,43 +8,80 @@ You can download my full CV here: [Download CV (PDF)](files/CV.pdf){target="_bla
 
 ## Education
 
-| Degree | Institution | Year |
-|--------|-------------|------|
-| Ph.D. in Mechanical Engineering | The Ohio State University | 2026 (expected) |
-| M.S. in Mechanical Engineering | The Ohio State University | 2023 |
-| B.S. in Mechanical Engineering | Bangladesh University of Engineering & Technology | 2018 |
+**The Ohio State University** | Columbus, OH
+
+- Ph.D. in Mechanical Engineering | Jan 2021 -- Dec 2026 (expected)
+  - Dissertation: *Aging-Aware Learning-Based Control for Electrified Powertrains*
+  - Advisors: [Dr. Qadeer Ahmed](https://car.osu.edu/people/ahmed.358) & [Dr. Carol Smidts](https://mae.osu.edu/people/smidts.1)
+- M.S. in Mechanical Engineering | Dec 2023
+  - Thesis: *Uncertainty in Multi-Objective Optimization: Weighted Entropy and Partition-Based Uncertainty Reduction*
+
+**Bangladesh University of Engineering & Technology (BUET)** | Dhaka, Bangladesh
+
+- B.S. in Mechanical Engineering | Oct 2018
+
+---
 
 ## Professional Experience
 
 ### Graduate Research Associate
 *The Ohio State University, Center for Automotive Research* | Jan 2021 -- Dec 2025
 
-- Designed physics-aware deep reinforcement learning (SAC, PPO, GRPO) frameworks for hybrid-electric powertrain energy management, achieving fuel consumption within 1.1--4.8% of the dynamic programming optimum while reducing battery degradation by up to 88%.
-- Developed a Physics-Informed Transformer Model for battery capacity fade prediction, reducing estimation error to 2.96% across 17 cells from 5 experimental datasets.
-- Built and validated physics-based aging models for battery, electric machine, and aftertreatment system, integrated into a forward-looking MATLAB/Simulink powertrain simulator.
-- Proposed a critic-free policy optimization method (A-GRPO) using Transformer policies and trajectory-level advantage ranking for long-horizon constrained control.
-- Delivered technical results to Cummins Inc. through regular milestone reviews and progress reporting.
+- Designed **physics-aware deep reinforcement learning** (SAC, PPO, GRPO) frameworks for hybrid-electric powertrain energy management, achieving fuel consumption within 1.1--4.8% of the dynamic programming optimum while reducing battery degradation by up to 88%.
+- Developed a **Physics-Informed Transformer Model** for battery capacity fade prediction, reducing estimation error to 2.96% across 17 cells from 5 experimental datasets.
+- Built and validated **physics-based aging models** for battery, electric machine, and aftertreatment system, integrated into a forward-looking MATLAB/Simulink powertrain simulator.
+- Created a **Dynamic Programming** benchmarking framework to evaluate RL policy quality and generate expert trajectories for accelerated training.
+- Proposed a **critic-free policy optimization** method (A-GRPO) using Transformer policies and trajectory-level advantage ranking for long-horizon constrained control.
+- Delivered technical results to **Cummins Inc.** through regular milestone reviews and progress reporting.
+- Designed a **multi-criteria sensor selection framework** for nuclear facility online monitoring systems.
+- Developed a **VR-based experimental framework** for human reliability assessment under physical security threats.
 
 ### Graduate Teaching Assistant
 *The Ohio State University* | Jan 2026 -- Present
 
-- Lead recitation sections and office hours for ME 3501: Introduction to Engineering Thermodynamics.
+- Lead recitation sections and office hours for ME 3501: Introduction to Engineering Thermodynamics, supporting 100+ students in applying thermodynamic principles to engineering systems.
 
 ### Lecturer, Dept. of Mechanical Engineering
-*Bangladesh Army University of Science and Technology* | Jun 2019 -- Dec 2020
+*Bangladesh Army University of Science and Technology (BAUST)* | Jun 2019 -- Dec 2020
 
-- Taught undergraduate courses (Numerical Analysis, Engineering Mechanics, Mechanics of Materials).
+- Taught undergraduate courses: Numerical Analysis, Engineering Mechanics, Mechanics of Materials, and Measurement Instrumentation & Quality Control.
+- Supervised student projects including design and performance analysis of a hydrodynamic tunnel and gravitational water vortex turbine.
 - Served as Departmental Program Coordinator.
+
+### Intern
+*Navana Group* | Mar 2018 -- Apr 2018 | Dhaka, Bangladesh
+
+- Industrial internship in manufacturing processes and quality control.
+
+---
+
+## Selected Projects
+
+**Aging-Aware Optimal Powertrain Control** | *Python, PyTorch, MATLAB/Simulink*
+
+- End-to-end pipeline: physics-based aging model calibration → RL environment design → multi-objective reward engineering → policy training → DP-based evaluation, deployed on heavy-duty Class 8 series-hybrid drive cycles.
+
+**Transformer-Based Battery Degradation Forecasting** | *Python, PyTorch*
+
+- Trained a physics-informed Transformer on multi-cell cycling data (5 datasets, 17 cells) to predict capacity fade, outperforming LSTM and standard Transformer baselines.
+
+**Critic-Free RL with Group-Relative Policy Optimization** | *Python, PyTorch*
+
+- Developed A-GRPO for long-horizon constrained control tasks, eliminating the critic network while maintaining near-optimal performance; validated on powertrain control and OpenAI Gym benchmarks.
+
+---
 
 ## Technical Skills
 
 | Category | Skills |
 |----------|--------|
 | **Languages** | Python, MATLAB, C, C++ |
-| **AI/ML** | PyTorch, TensorFlow, Scikit-learn; Transformers, RNN/LSTM; RL (SAC, PPO, TD3, GRPO) |
+| **AI/ML** | PyTorch, TensorFlow, Scikit-learn; Transformers, RNN/LSTM; RL (SAC, PPO, TD3, GRPO, DDPG) |
 | **Optimization** | Dynamic Programming, MINLP, MDP, NSGA-II, Multi-Objective Optimization, CasADi |
 | **Modeling & Sim** | MATLAB/Simulink, LAMMPS |
 | **Tools** | Git, LaTeX, CUDA, Docker, AutoCAD, SOLIDWORKS |
+
+---
 
 ## Awards
 

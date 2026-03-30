@@ -2,7 +2,7 @@
 
 /* Slightly tighter line spacing for readability */
 p {
-  line-height: 1.6;
+  line-height: 1.7;
 }
 
 /* About page image sizing */
@@ -12,11 +12,34 @@ p {
   }
 }
 
-/* Section dividers in research/publications */
+/* Section dividers */
 hr {
   border: none;
   border-top: 1px solid #ddd;
   margin: 2em 0;
+}
+
+/* Headings */
+h2 {
+  margin-top: 1.8em;
+  padding-bottom: 0.3em;
+  border-bottom: 2px solid #c41230;
+}
+
+h3 {
+  color: #2c3e50;
+  margin-top: 1.4em;
+}
+
+/* Links */
+a {
+  color: #c41230;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #8b0000;
+  text-decoration: underline;
 }
 
 /* Publication list styling */
@@ -27,25 +50,64 @@ hr {
 /* Table styling */
 table {
   width: 100%;
+  margin: 1em 0;
 }
 
 th {
   text-align: left;
-  border-bottom: 2px solid #333;
+  border-bottom: 2px solid #c41230;
   padding: 0.5em 0.75em;
+  font-weight: 600;
 }
 
 td {
-  padding: 0.4em 0.75em;
+  padding: 0.5em 0.75em;
   border-bottom: 1px solid #eee;
+}
+
+tr:hover td {
+  background-color: #f8f8f8;
 }
 
 /* News items on homepage */
 ul li strong {
-  color: #2c3e50;
+  color: #c41230;
 }
 
 /* Navbar tweaks */
 .navbar {
   font-size: 0.95rem;
+  border-bottom: 3px solid #c41230;
+}
+
+.navbar-brand {
+  font-weight: 700;
+}
+
+/* Research focus list on homepage */
+.about-contents ul li {
+  margin-bottom: 0.5em;
+}
+
+/* Experience sections in CV */
+.cv-section h3 {
+  margin-top: 1.5em;
+}
+
+/* Bold text emphasis */
+strong {
+  color: #2c3e50;
+}
+
+/* Footer */
+.nav-footer {
+  border-top: 2px solid #c41230;
+}
+
+/* Cards/blocks for selected projects */
+blockquote {
+  border-left: 4px solid #c41230;
+  background: #fafafa;
+  padding: 0.8em 1.2em;
+  margin: 1em 0;
 }

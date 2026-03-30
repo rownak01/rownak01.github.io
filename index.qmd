@@ -25,7 +25,14 @@ I am a PhD candidate in Mechanical Engineering at [The Ohio State University](ht
 
 I work at the intersection of **deep reinforcement learning**, **Transformer-based generative models**, and **physics-informed modeling** to improve the efficiency, reliability, and sustainability of next-generation hybrid and electric vehicles. My work is conducted in collaboration with [Cummins Inc.](https://www.cummins.com/)
 
-Prior to my PhD, I served as a Lecturer in Mechanical Engineering at Bangladesh Army University of Science and Technology, and I hold a B.S. from Bangladesh University of Engineering and Technology (BUET).
+**Research Focus & Expertise:**
+
+- **Aging Models & Powertrain Simulation** -- Developing and integrating physics-based and reduced-order aging models for battery SEI/active material loss, electric machine degradation, and aftertreatment catalyst deactivation into a forward-looking MATLAB/Simulink powertrain simulator.
+- **Transformer-Based Battery Aging Estimation** -- Improving capacity fade estimation using a physics-informed Transformer model, trained on multi-cell datasets to enhance generalization across diverse cycling conditions and battery chemistries.
+- **Learning-Based Powertrain Control** -- Designing optimal energy management strategies using SAC, PPO, and GRPO, supported by Dynamic Programming as a reference benchmark for policy evaluation and improvement.
+- **Optimization & Fleet-Level Decision Support** -- Background in multi-objective optimization, MINLP, NSGA-II, and uncertainty quantification for energy, aging, emissions, and routing in electrified fleets.
+
+Prior to my PhD, I served as a Lecturer in Mechanical Engineering at Bangladesh Army University of Science and Technology, and I hold a B.S. from Bangladesh University of Engineering and Technology (BUET). I am seeking roles in **AI/ML engineering**, **controls**, **powertrain systems**, or **applied research**.
 
 ## Research Interests
 
@@ -40,9 +47,12 @@ Prior to my PhD, I served as a Lecturer in Mechanical Engineering at Bangladesh 
 **The Ohio State University** | Columbus, OH
 
 - Ph.D. in Mechanical Engineering | Jan 2021 -- Dec 2026 (expected)
+  - Dissertation: *Aging-Aware Learning-Based Control for Electrified Powertrains*
+  - Advisors: [Dr. Qadeer Ahmed](https://car.osu.edu/people/ahmed.358) & [Dr. Carol Smidts](https://mae.osu.edu/people/smidts.1)
 - M.S. in Mechanical Engineering | Dec 2023
+  - Thesis: *Uncertainty in Multi-Objective Optimization: Weighted Entropy and Partition-Based Uncertainty Reduction*
 
-**Bangladesh University of Engineering & Technology** | Dhaka, Bangladesh
+**Bangladesh University of Engineering & Technology (BUET)** | Dhaka, Bangladesh
 
 - B.S. in Mechanical Engineering | Oct 2018
 
