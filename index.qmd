@@ -58,8 +58,12 @@ Prior to my PhD, I served as a Lecturer in Mechanical Engineering at Bangladesh 
 
 ## News
 
-- **Mar 2026** -- Submitted "Ranking-Augmented Policy Optimization for Constrained Control" to IEEE CDC
-- **Feb 2026** -- New preprint: "Physics-Aware Deep Reinforcement Learning for Energy and Aging Management in Electrified Powertrains"
-- **Dec 2025** -- Preprint posted: "Learning Battery Aging Dynamics using Physics-Informed Transformer"
-- **Jun 2025** -- Presenting at IEEE ITEC 2025 on aging model robustness for heavy-duty EVs
-- **Apr 2025** -- Paper presented at SAE WCX 2025 on powertrain aging model selection
+- **Mar 31, 2026** -- Submitted "Ranking-Augmented On-Policy Optimization with Adaptive Advantage-Normalization for Constrained Control" to [IEEE CDC 2026](https://cdc2026.ieeecss.org/) (Honolulu, Hawaii)
+- **Mar 05, 2026** -- Submitted a paper to [RLC 2026](https://rl-conference.cc/)
+- **Feb 06, 2026** -- Submitted "Physics-Aware Deep Reinforcement Learning for Energy and Aging Management in Electrified Powertrains" for journal review
+- **Jan 19, 2026** -- Our paper "Learning Battery Aging Dynamics using Physics-Informed Transformer" accepted at *IEEE Transactions on Transportation Electrification*
+- **Dec 17, 2025** -- Submitted "Learning Battery Aging Dynamics using Physics-Informed Transformer" to *IEEE Transactions on Transportation Electrification*
+- **Jun 19, 2025** -- Our work on aging model robustness for heavy-duty EVs presented at [IEEE ITEC 2025](https://itec-conf.com/), Anaheim, CA
+- **Apr 09, 2025** -- Our work on powertrain aging model selection presented at [SAE WCX 2025](https://wcx.sae.org/), Detroit, MI
+- **Sep 2024** -- Submitted paper to SAE WCX 2025
+- **Dec 2024** -- Submitted paper to IEEE ITEC 2025
