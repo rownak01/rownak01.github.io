@@ -58,9 +58,10 @@ I am seeking full-time roles in **AI/ML engineering**, **controls engineering**,
 
 - Ph.D. in Mechanical Engineering | Jan 2021 -- Dec 2026 (expected)
   - Dissertation: *Aging-Aware Learning-Based Control for Electrified Powertrains*
-  - Advisors: [Dr. Qadeer Ahmed](https://car.osu.edu/people/ahmed.358) & [Dr. Carol Smidts](https://mae.osu.edu/people/smidts.1)
+  - Advisor: [Dr. Qadeer Ahmed](https://car.osu.edu/people/ahmed.358)
 - M.S. in Mechanical Engineering | Dec 2023
   - Thesis: *Uncertainty in Multi-Objective Optimization: Weighted Entropy and Partition-Based Uncertainty Reduction*
+  - Advisor: [Dr. Carol Smidts](https://mae.osu.edu/people/smidts.1)
 
 **Bangladesh University of Engineering & Technology (BUET)** | Dhaka, Bangladesh
 
