@@ -2,41 +2,82 @@
 title: "Research"
 ---
 
-My research spans AI/ML-driven control, physics-informed modeling, and optimization for electrified powertrains. Below are my primary research themes.
+My research develops AI/ML-driven control and prediction frameworks for electrified powertrains, bridging physics-based modeling with modern machine learning to improve vehicle efficiency, reliability, and sustainability. Below are my primary research themes.
 
 ---
 
 ## Aging-Aware Reinforcement Learning for Powertrain Control
 
-I develop deep reinforcement learning frameworks (SAC, PPO, GRPO) that jointly optimize fuel economy, emissions, and component longevity in hybrid-electric vehicles. By embedding physics-based aging penalties into the RL reward structure, these controllers learn to balance short-term efficiency with long-term reliability -- achieving fuel consumption within 1.1--4.8% of the dynamic programming optimum while reducing battery cycling degradation by up to 88% and generator lifetime loss by up to 26.3%.
+I develop deep reinforcement learning frameworks (SAC, PPO, GRPO) that jointly optimize fuel economy, emissions, and component longevity in hybrid-electric vehicles. By embedding physics-based aging penalties into the RL reward structure, these controllers learn to balance short-term efficiency with long-term reliability.
+
+**Key results:**
+
+- Fuel consumption within **1.1--4.8%** of the dynamic programming (DP) optimum
+- Battery cycling degradation reduced by up to **88%**
+- Generator lifetime loss reduced by up to **26.3%**
+- Validated on heavy-duty **Class 8 series-hybrid** drive cycles in collaboration with **Cummins Inc.**
 
 **Key contributions:**
 
-- Physics-Aware SAC (PA-SAC) for multi-objective powertrain energy management
-- Critic-free policy optimization (A-GRPO) with Transformer policies for long-horizon constrained control
-- Sequence-aware architectures (GRU, Decision Transformer) for temporal reasoning in control
-- Dynamic Programming benchmarking framework for RL policy evaluation
+- **Physics-Aware SAC (PA-SAC):** Multi-objective energy management integrating real-time aging feedback into the RL state and reward
+- **Critic-Free Policy Optimization (A-GRPO):** Eliminates the critic network using trajectory-level advantage ranking with Transformer policies for long-horizon constrained control
+- **Sequence-Aware Architectures:** GRU and Decision Transformer-based policies for temporal reasoning in energy management
+- **DP Benchmarking Framework:** Dynamic Programming as a reference for RL policy evaluation and expert trajectory generation to accelerate training
 
 ---
 
 ## Physics-Informed Transformer for Battery Aging Prediction
 
-Accurate battery degradation prediction is critical for onboard health management. I developed a Physics-Informed Transformer Model (PITM) that integrates reduced-order physics-based aging trends with multivariate cycling data. Trained on 17 cells across 5 experimental datasets, PITM achieves a prediction error (RSEP) as low as 2.96%, outperforming LSTM and standard Transformer baselines, while remaining computationally feasible for real-time deployment.
+Accurate battery degradation prediction is critical for onboard health management and warranty planning. I developed a Physics-Informed Transformer Model (PITM) that integrates reduced-order physics-based aging trends with multivariate cycling data.
+
+**Key results:**
+
+- Prediction error (RSEP) as low as **2.96%** across 17 cells from 5 experimental datasets
+- Outperforms **LSTM** and **standard Transformer** baselines
+- Generalizes across diverse cycling conditions and battery chemistries
+- Computationally feasible for **real-time deployment**
+
+**Approach:**
+
+- Combines physics-based capacity fade features (SEI growth, active material loss) with data-driven Transformer attention mechanisms
+- Trained on multi-cell datasets to learn transferable degradation patterns rather than cell-specific behavior
 
 ---
 
 ## Physics-Based Aging Models for Powertrain Components
 
-I build, calibrate, and validate reduced-order aging models for batteries (SEI growth, active material loss), electric machines (thermal degradation), and aftertreatment catalysts. These models are integrated into a forward-looking MATLAB/Simulink powertrain simulator for heavy-duty Class 8 series-hybrid electric vehicles, enabling system-level aging analysis over real-world driving cycles.
+I build, calibrate, and validate reduced-order aging models for three critical powertrain subsystems, integrated into a forward-looking MATLAB/Simulink powertrain simulator for heavy-duty Class 8 series-hybrid electric vehicles.
+
+**Components modeled:**
+
+- **Battery:** SEI layer growth and active material loss under varying C-rates, temperatures, and SOC windows
+- **Electric Machine:** Thermal degradation of insulation and permanent magnets under real-world load profiles
+- **Aftertreatment:** Catalyst deactivation and conversion efficiency loss over extended operation
+
+**Application:** System-level aging analysis over real-world driving cycles, enabling aging-aware control and fleet-level lifetime management decisions.
 
 ---
 
 ## Multi-Objective Optimization Under Uncertainty
 
-My M.S. thesis investigated how parametric uncertainty affects non-dominated Pareto fronts. I developed a partition-based approach using weighted entropy to progressively reduce uncertainty, established the distribution of Frechet distances of Pareto fronts, and derived analytical expressions for the probability of solution dominance under uncertainty.
+My M.S. thesis investigated how parametric uncertainty affects non-dominated Pareto fronts in multi-objective optimization.
+
+**Key contributions:**
+
+- Derived **analytical expressions** for the probability that a solution remains non-dominated under uncertainty
+- Developed a **partition-based algorithm** using weighted entropy to progressively reduce uncertainty in the decision space
+- Established the distribution of **Frechet distances** of Pareto fronts and quantified how it changes with progressive uncertainty reduction
+- Applicable to problems in energy, aging, emissions, and fleet routing optimization
 
 ---
 
-## Human Reliability Assessment (Previous Work)
+## Human Reliability Assessment for Nuclear Security
 
-During my earlier work with [Dr. Carol Smidts](https://mae.osu.edu/people/smidts.1), I contributed to research on human behavior under extreme situations, specifically physical security threats at nuclear facilities. I designed a VR-based experimental framework for collecting human performance data and contributed to multi-criteria sensor selection for nuclear monitoring systems.
+During my earlier work with [Dr. Carol Smidts](https://mae.osu.edu/people/smidts.1), I contributed to research on human behavior under extreme situations at nuclear facilities.
+
+**Key contributions:**
+
+- Designed a **VR-based experimental framework** for collecting human performance data under physical security threats
+- Identified and measured factors influencing human behavior in extreme situations
+- Integrated experimental data into an extended **THERP** (Technique for Human Error Rate Prediction) framework
+- Contributed to a **multi-criteria sensor selection framework** for nuclear facility online monitoring systems using NSGA-based optimization

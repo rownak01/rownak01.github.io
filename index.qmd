@@ -21,26 +21,36 @@ about:
 
 ## About Me
 
-I am a PhD candidate in Mechanical Engineering at [The Ohio State University](https://www.osu.edu/) ([Center for Automotive Research](https://car.osu.edu/)), graduating in December 2026. My research focuses on **aging-aware optimal control of electrified powertrains**, where I develop AI/ML-driven solutions that bridge physics-based component aging models with learning-based control algorithms.
+I am a PhD candidate in Mechanical Engineering at [The Ohio State University](https://www.osu.edu/) ([Center for Automotive Research](https://car.osu.edu/)), graduating in **December 2026**. I develop AI/ML-driven solutions for next-generation electrified vehicles — combining **deep reinforcement learning**, **Transformer-based models**, and **physics-informed simulations** to make powertrains smarter, more efficient, and longer-lasting.
 
-I work at the intersection of **deep reinforcement learning**, **Transformer-based generative models**, and **physics-informed modeling** to improve the efficiency, reliability, and sustainability of next-generation hybrid and electric vehicles. My work is conducted in collaboration with [Cummins Inc.](https://www.cummins.com/)
+My PhD research, conducted in collaboration with [Cummins Inc.](https://www.cummins.com/), tackles a critical industry challenge: **how to optimally control hybrid-electric powertrains while simultaneously managing the aging of batteries, electric machines, and aftertreatment systems** — a problem that directly impacts vehicle lifetime cost, warranty risk, and fleet sustainability.
 
-**Research Focus & Expertise:**
+I am seeking full-time roles in **AI/ML engineering**, **controls engineering**, **powertrain systems**, or **applied research** starting early 2027.
 
-- **Aging Models & Powertrain Simulation** -- Developing and integrating physics-based and reduced-order aging models for battery SEI/active material loss, electric machine degradation, and aftertreatment catalyst deactivation into a forward-looking MATLAB/Simulink powertrain simulator.
-- **Transformer-Based Battery Aging Estimation** -- Improving capacity fade estimation using a physics-informed Transformer model, trained on multi-cell datasets to enhance generalization across diverse cycling conditions and battery chemistries.
-- **Learning-Based Powertrain Control** -- Designing optimal energy management strategies using SAC, PPO, and GRPO, supported by Dynamic Programming as a reference benchmark for policy evaluation and improvement.
-- **Optimization & Fleet-Level Decision Support** -- Background in multi-objective optimization, MINLP, NSGA-II, and uncertainty quantification for energy, aging, emissions, and routing in electrified fleets.
+---
 
-Prior to my PhD, I served as a Lecturer in Mechanical Engineering at Bangladesh Army University of Science and Technology, and I hold a B.S. from Bangladesh University of Engineering and Technology (BUET). I am seeking roles in **AI/ML engineering**, **controls**, **powertrain systems**, or **applied research**.
+## Highlights
 
-## Research Interests
+- **88% reduction** in battery cycling degradation through physics-aware RL control, while staying within 1.1--4.8% of the fuel-optimal benchmark
+- **2.96% prediction error** on battery capacity fade using a Physics-Informed Transformer, outperforming LSTM and standard Transformer baselines across 17 cells from 5 datasets
+- **13+ publications** including IEEE, SAE, and journal papers — 7 as first author
+- **5+ years** of research at the intersection of AI/ML, control systems, and electrified powertrains
+- **Industry collaboration** with Cummins Inc. delivering technical milestones on heavy-duty Class 8 series-hybrid platforms
+- **Cross-domain expertise** spanning reinforcement learning, Transformer architectures, physics-based modeling, and multi-objective optimization
 
-- AI/ML for control and decision-making in complex engineering systems
-- Deep reinforcement learning (SAC, PPO, GRPO) for real-time optimal control
-- Physics-informed generative models (Transformers) for degradation prediction
-- Multi-objective optimization under uncertainty
-- Sustainable and intelligent transportation and energy systems
+---
+
+## Technical Skills
+
+| Category | Skills |
+|----------|--------|
+| **Languages** | Python, MATLAB, C, C++ |
+| **AI/ML** | PyTorch, TensorFlow, Scikit-learn; Transformers, RNN/LSTM; RL (SAC, PPO, TD3, GRPO, DDPG) |
+| **Optimization** | Dynamic Programming, MINLP, MDP, NSGA-II, CasADi |
+| **Modeling & Sim** | MATLAB/Simulink, Physics-based aging models (Battery, EM, Aftertreatment), Powertrain simulation |
+| **Tools** | Git, LaTeX, CUDA, Docker, AutoCAD, SOLIDWORKS |
+
+---
 
 ## Education
 
@@ -54,7 +64,9 @@ Prior to my PhD, I served as a Lecturer in Mechanical Engineering at Bangladesh 
 
 **Bangladesh University of Engineering & Technology (BUET)** | Dhaka, Bangladesh
 
-- B.S. in Mechanical Engineering | Oct 2018
+- B.S. in Mechanical Engineering | 2014 -- 2018
+
+---
 
 ## News
 
@@ -65,5 +77,5 @@ Prior to my PhD, I served as a Lecturer in Mechanical Engineering at Bangladesh 
 - **Dec 17, 2025** -- Submitted "Learning Battery Aging Dynamics using Physics-Informed Transformer" to *IEEE Transactions on Transportation Electrification*
 - **Jun 19, 2025** -- Our work on aging model robustness for heavy-duty EVs presented at [IEEE ITEC 2025](https://itec-conf.com/), Anaheim, CA
 - **Apr 09, 2025** -- Our work on powertrain aging model selection presented at [SAE WCX 2025](https://wcx.sae.org/), Detroit, MI
-- **Sep 2024** -- Submitted paper to SAE WCX 2025
 - **Dec 2024** -- Submitted paper to IEEE ITEC 2025
+- **Sep 2024** -- Submitted paper to SAE WCX 2025
