@@ -70,6 +70,7 @@ I am seeking full-time roles in **AI/ML engineering**, **controls engineering**,
 
 ## News
 
+- **Apr 2026** -- Joining [Cummins Inc.](https://www.cummins.com/) as a **Powertrain Electrification Controls Intern** in Columbus, IN for Summer 2026
 - **Mar 31, 2026** -- Submitted "Ranking-Augmented On-Policy Optimization with Adaptive Advantage-Normalization for Constrained Control" to [IEEE CDC 2026](https://cdc2026.ieeecss.org/) (Honolulu, Hawaii)
 - **Mar 05, 2026** -- Submitted a paper to [RLC 2026](https://rl-conference.cc/)
 - **Feb 06, 2026** -- Submitted "Physics-Aware Deep Reinforcement Learning for Energy and Aging Management in Electrified Powertrains" for journal review
