@@ -18,7 +18,7 @@ title: "Publications"
 
 ## Co-Authored -- Electrified Powertrains
 
-5. W. Jaleel, **M.R. Rownak**, A. Hanif, S.G. Bhatti, & Q. Ahmed (2025). "Sequence Aware SAC Control for Engine Fuel Consumption Optimization in Electrified Powertrain." *arXiv:2508.04874.*
+5. W. Jaleel, **M.R. Rownak**, A. Hanif, S.G. Bhatti, & Q. Ahmed (2026). "Sequence Aware SAC Control for Engine Fuel Consumption Optimization in Electrified Powertrain." *Accepted, American Control Conference (ACC) 2026.* [arXiv:2508.04874](https://arxiv.org/abs/2508.04874)
 
 ## First-Author -- Human Reliability & Optimization
 
