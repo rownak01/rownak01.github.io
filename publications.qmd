@@ -2,15 +2,15 @@
 title: "Publications"
 ---
 
-*Google Scholar: [profile](https://scholar.google.com/citations?user=YHr3XgYAAAAJ&hl=en) | 22 citations | h-index: 3*
+*Google Scholar: [profile](https://scholar.google.com/citations?user=YHr3XgYAAAAJ&hl=en) | 27 citations | h-index: 3*
 
 ---
 
 ## First-Author -- Electrified Powertrains & AI/ML
 
-1. **M.R. Rownak**, W. Jaleel, A. Hanif, M.Q. Fahim, D.D. Le, H. Anwar, M. Nelson, & Q. Ahmed (2026). "Physics-Aware Deep Reinforcement Learning for Energy and Aging Management in Electrified Powertrains." *Under review.*
+1. **M.R. Rownak**, W. Jaleel, A. Hanif, M.Q. Fahim, D.D. Le, H. Anwar, M. Nelson, & Q. Ahmed (2026). "Physics-Aware Deep Reinforcement Learning for Energy and Aging Management in Electrified Powertrains." *Accepted, IEEE Transactions on Transportation Electrification.*
 
-2. **M.R. Rownak**, A. Hanif, M.Q. Fahim, D.D. Le, H. Anwar, W. Jaleel, M. Nelson, & Q. Ahmed (2025). "Learning Battery Aging Dynamics using Physics-Informed Transformer." *Submitted to IEEE Transactions on Transportation Electrification.*
+2. **M.R. Rownak**, A. Hanif, M.Q. Fahim, D.D. Le, H. Anwar, W. Jaleel, M. Nelson, & Q. Ahmed (2026). "Learning Battery Aging Dynamics using Physics-Informed Transformer." *Accepted, IEEE Transactions on Transportation Electrification.*
 
 3. **M.R. Rownak**, A. Hanif, Q. Ahmed, M.Q. Fahim, H. Anwar, H. Li, D.D. Le, & M. Nelson (2025). "Robustness and Sensitivity of Aging Models for Batteries and Electric Machines in Heavy-Duty Electrified Powertrains." In *IEEE ITEC 2025.*
 
