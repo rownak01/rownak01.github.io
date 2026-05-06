@@ -1,6 +1,6 @@
 ---
 title: "Md Ragib Rownak"
-image: images/profile.jpg
+image: images/Headshot_rownak.png
 about:
   template: trestles
   image-shape: round
