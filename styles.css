@@ -1,45 +1,56 @@
 /* Custom styles for academic site */
 
-/* Widen content area: Quarto's default grid leaves big 5fr gutters on
-   each side. Replace with a simple 3-column layout (small margin | body
-   up to 1500px | small margin) so the page fills more of the screen on
-   wide displays. */
+/* Page width: replace Quarto's wide 5fr side columns so content fills more
+   of the screen on desktops. */
 @media (min-width: 992px) {
   .quarto-container.page-columns {
     grid-template-columns:
       [screen-start] 1.5em
       [screen-start-inset page-start page-start-inset body-start-outset body-start body-content-start]
-      minmax(500px, 1500px)
+      minmax(500px, 1400px)
       [body-content-end body-end body-end-outset page-end-inset page-end screen-end-inset]
       1.5em
       [screen-end];
   }
 }
 
-/* Slightly tighter line spacing for readability */
-p {
-  line-height: 1.7;
+/* Trestles about-block: keep the left column compact and don't let it
+   stretch to match the (long) right column. */
+@media (min-width: 992px) {
+  .quarto-about-trestles {
+    align-items: flex-start;
+  }
+  .quarto-about-trestles .about-entity {
+    max-width: 260px;
+    padding-right: 2em;
+  }
 }
 
 /* About page image sizing */
 @media (min-width: 992px) {
   .about-entity .about-image {
-    max-width: 250px;
+    max-width: 220px;
   }
 }
 
-/* Section dividers */
+/* Typography */
+p { line-height: 1.7; }
+
+strong { color: #1a1a1a; }
+
+/* Section dividers — subtle, not red */
 hr {
   border: none;
-  border-top: 1px solid #ddd;
+  border-top: 1px solid #eaeaea;
   margin: 2em 0;
 }
 
-/* Headings */
+/* Headings — quiet, no red underline */
 h2 {
   margin-top: 1.8em;
   padding-bottom: 0.3em;
-  border-bottom: 2px solid #c41230;
+  border-bottom: 1px solid #ececec;
+  font-weight: 600;
 }
 
 h3 {
@@ -47,7 +58,7 @@ h3 {
   margin-top: 1.4em;
 }
 
-/* Links */
+/* Links — the one place we keep the OSU scarlet accent */
 a {
   color: #c41230;
   text-decoration: none;
@@ -58,20 +69,12 @@ a:hover {
   text-decoration: underline;
 }
 
-/* Publication list styling */
-.publications ol {
-  padding-left: 1.5em;
-}
-
-/* Table styling */
-table {
-  width: 100%;
-  margin: 1em 0;
-}
+/* Tables (CV) */
+table { width: 100%; margin: 1em 0; }
 
 th {
   text-align: left;
-  border-bottom: 2px solid #c41230;
+  border-bottom: 1px solid #d0d0d0;
   padding: 0.5em 0.75em;
   font-weight: 600;
 }
@@ -81,31 +84,51 @@ td {
   border-bottom: 1px solid #eee;
 }
 
-tr:hover td {
-  background-color: #f8f8f8;
+tr:hover td { background-color: #f8f8f8; }
+
+/* Navbar */
+.navbar {
+  font-size: 0.95rem;
+  border-bottom: 1px solid #ececec;
 }
 
-/* News items on homepage */
-ul li strong {
-  color: #c41230;
-}
+.navbar-brand { font-weight: 700; }
 
-/* Collapsible Older News (and any other <details> blocks) */
-details {
+/* Footer */
+.nav-footer { border-top: 1px solid #ececec; }
+
+/* Blockquotes */
+blockquote {
+  border-left: 3px solid #d0d0d0;
+  background: #fafafa;
+  padding: 0.8em 1.2em;
   margin: 1em 0;
 }
+
+/* Publication grid: keep thumbnails comfortably sized and aligned. */
+.grid img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 3px;
+}
+
+.grid {
+  align-items: center;
+  margin-bottom: 1.5em;
+}
+
+/* Older News disclosure — neutral, no red */
+details { margin: 1em 0; }
 
 details summary {
   cursor: pointer;
   font-weight: 600;
-  color: #c41230;
+  color: #2c3e50;
   padding: 0.4em 0;
   list-style: none;
 }
 
-details summary::-webkit-details-marker {
-  display: none;
-}
+details summary::-webkit-details-marker { display: none; }
 
 details summary::before {
   content: "▸ ";
@@ -113,44 +136,4 @@ details summary::before {
   width: 1em;
 }
 
-details[open] summary::before {
-  content: "▾ ";
-}
-
-/* Navbar tweaks */
-.navbar {
-  font-size: 0.95rem;
-  border-bottom: 3px solid #c41230;
-}
-
-.navbar-brand {
-  font-weight: 700;
-}
-
-/* Research focus list on homepage */
-.about-contents ul li {
-  margin-bottom: 0.5em;
-}
-
-/* Experience sections in CV */
-.cv-section h3 {
-  margin-top: 1.5em;
-}
-
-/* Bold text emphasis */
-strong {
-  color: #2c3e50;
-}
-
-/* Footer */
-.nav-footer {
-  border-top: 2px solid #c41230;
-}
-
-/* Cards/blocks for selected projects */
-blockquote {
-  border-left: 4px solid #c41230;
-  background: #fafafa;
-  padding: 0.8em 1.2em;
-  margin: 1em 0;
-}
+details[open] summary::before { content: "▾ "; }
