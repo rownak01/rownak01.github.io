@@ -84,6 +84,57 @@ I am seeking full-time roles in **AI/ML engineering**, **controls engineering**,
 
 ---
 
+## Selected Publications
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-3}
+![](images/papers/padrl.png){fig-alt="Pareto trade-off across PA-SAC variants"}
+:::
+::: {.g-col-12 .g-col-md-9}
+**Physics-Aware Deep Reinforcement Learning for Energy and Aging Management in Electrified Powertrains**
+**M.R. Rownak**, W. Jaleel, A. Hanif, M.Q. Fahim, D.D. Le, H. Anwar, M. Nelson, & Q. Ahmed
+*IEEE Transactions on Transportation Electrification*, 2026 (accepted)
+:::
+:::
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-3}
+![](images/papers/pi_transformer.png){fig-alt="PI-Transformer correction vs PB-ROM residual"}
+:::
+::: {.g-col-12 .g-col-md-9}
+**Learning Battery Aging Dynamics Using Physics-Informed Transformer**
+**M.R. Rownak**, A. Hanif, M.Q. Fahim, D.D. Le, H. Anwar, W. Jaleel, M. Nelson, & Q. Ahmed
+*IEEE Transactions on Transportation Electrification*, vol. 12, no. 2, pp. 3792–3804, April 2026.
+[doi:10.1109/TTE.2026.3658446](https://doi.org/10.1109/TTE.2026.3658446)
+:::
+:::
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-3}
+![](images/papers/itec25.png){fig-alt="Aging model robustness: current profile and capacity degradation"}
+:::
+::: {.g-col-12 .g-col-md-9}
+**Robustness and Sensitivity of Aging Models for Batteries and Electric Machines in Heavy-Duty Electrified Powertrains**
+**M.R. Rownak**, A. Hanif, Q. Ahmed, M.Q. Fahim, H. Anwar, H. Li, D.D. Le, & M. Nelson
+*IEEE ITEC 2025*, Anaheim, CA.
+:::
+:::
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-3}
+![](images/papers/wcx25.png){fig-alt="Battery aging cause-mechanism-effect block diagram"}
+:::
+::: {.g-col-12 .g-col-md-9}
+**Powertrain Components Aging Model Selection for Energy Efficient Vehicles: Selection Strategy and Challenges**
+**M.R. Rownak**, A. Hanif, Q. Ahmed, M.Q. Fahim, H. Anwar, H. Li, D. Le, & M. Nelson
+*SAE WCX 2025*, Detroit, MI.
+:::
+:::
+
+[See all publications →](publications.qmd)
+
+---
+
 ## Visitors
 
 A small dot for every visitor.
