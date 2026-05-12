@@ -1,5 +1,21 @@
 /* Custom styles for academic site */
 
+/* Widen content area: Quarto's default grid leaves big 5fr gutters on
+   each side. Replace with a simple 3-column layout (small margin | body
+   up to 1500px | small margin) so the page fills more of the screen on
+   wide displays. */
+@media (min-width: 992px) {
+  .quarto-container.page-columns {
+    grid-template-columns:
+      [screen-start] 1.5em
+      [screen-start-inset page-start page-start-inset body-start-outset body-start body-content-start]
+      minmax(500px, 1500px)
+      [body-content-end body-end body-end-outset page-end-inset page-end screen-end-inset]
+      1.5em
+      [screen-end];
+  }
+}
+
 /* Slightly tighter line spacing for readability */
 p {
   line-height: 1.7;
