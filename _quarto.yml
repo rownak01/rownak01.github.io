@@ -1,6 +1,9 @@
 project:
   type: website
   output-dir: _site
+  render:
+    - "*.qmd"
+    - "!private/"
 
 website:
   title: "Md Ragib Rownak"
@@ -36,6 +39,8 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
+    grid:
+      body-width: 1200px
 
 execute:
   freeze: auto
