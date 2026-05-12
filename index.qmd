@@ -21,11 +21,11 @@ about:
 
 ## About Me
 
-I am a PhD candidate in Mechanical Engineering at [The Ohio State University](https://www.osu.edu/) ([Center for Automotive Research](https://car.osu.edu/)), graduating in **December 2026**. I develop AI/ML-driven solutions for next-generation electrified vehicles — combining **deep reinforcement learning**, **Transformer-based models**, and **physics-informed simulations** to make powertrains smarter, more efficient, and longer-lasting.
+I'm a PhD candidate in Mechanical Engineering at [Ohio State's Center for Automotive Research](https://car.osu.edu/), advised by [Dr. Qadeer Ahmed](https://car.osu.edu/people/ahmed.358). My research uses reinforcement learning and physics-informed deep learning to control hybrid-electric powertrains in a way that doesn't just minimize fuel consumption — it also slows the aging of the battery, electric machine, and aftertreatment system.
 
-My PhD research, conducted in collaboration with [Cummins Inc.](https://www.cummins.com/), tackles a critical industry challenge: **how to optimally control hybrid-electric powertrains while simultaneously managing the aging of batteries, electric machines, and aftertreatment systems** — a problem that directly impacts vehicle lifetime cost, warranty risk, and fleet sustainability.
+My PhD work is in collaboration with [Cummins Inc.](https://www.cummins.com/), where I'll be interning this summer as a Powertrain Electrification Controls Intern.
 
-I am seeking full-time roles in **AI/ML engineering**, **controls engineering**, **powertrain systems**, or **applied research** starting early 2027.
+I'm graduating in **December 2026** and looking for full-time roles in **AI/ML engineering, controls, or applied research** starting early 2027.
 
 ---
 
