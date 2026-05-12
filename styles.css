@@ -9,7 +9,7 @@
     grid-template-columns:
       [screen-start] minmax(2em, 1fr)
       [screen-start-inset page-start page-start-inset body-start-outset body-start body-content-start]
-      minmax(500px, 1200px)
+      minmax(500px, 1300px)
       [body-content-end body-end body-end-outset page-end-inset page-end screen-end-inset]
       minmax(2em, 1fr)
       [screen-end];
@@ -23,7 +23,7 @@
     align-items: flex-start;
   }
   .quarto-about-trestles .about-entity {
-    max-width: 310px;
+    max-width: 280px;
     padding-right: 2em;
   }
 }
