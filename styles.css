@@ -9,7 +9,7 @@
     grid-template-columns:
       [screen-start] 2em
       [screen-start-inset page-start page-start-inset body-start-outset body-start body-content-start]
-      minmax(500px, 1100px)
+      minmax(500px, 1150px)
       [body-content-end body-end body-end-outset page-end-inset page-end screen-end-inset]
       minmax(2em, 1fr)
       [screen-end];
