@@ -1,15 +1,17 @@
 /* Custom styles for academic site */
 
-/* Page width: replace Quarto's wide 5fr side columns so content fills more
-   of the screen on desktops. */
+/* Page width: cap the body at a comfortable reading width and let any
+   extra horizontal space split evenly between left/right gutters (so the
+   content is centered, never touches the screen edge, and never feels
+   too wide). */
 @media (min-width: 992px) {
   .quarto-container.page-columns {
     grid-template-columns:
-      [screen-start] 1.5em
+      [screen-start] minmax(2em, 1fr)
       [screen-start-inset page-start page-start-inset body-start-outset body-start body-content-start]
-      minmax(500px, 1400px)
+      minmax(500px, 1200px)
       [body-content-end body-end body-end-outset page-end-inset page-end screen-end-inset]
-      1.5em
+      minmax(2em, 1fr)
       [screen-end];
   }
 }
@@ -21,7 +23,7 @@
     align-items: flex-start;
   }
   .quarto-about-trestles .about-entity {
-    max-width: 260px;
+    max-width: 310px;
     padding-right: 2em;
   }
 }
@@ -105,11 +107,17 @@ blockquote {
   margin: 1em 0;
 }
 
-/* Publication grid: keep thumbnails comfortably sized and aligned. */
+/* Publication grid: keep thumbnails compact on desktop, responsive on mobile. */
 .grid img {
   max-width: 100%;
   height: auto;
   border-radius: 3px;
+}
+
+@media (min-width: 992px) {
+  .g-col-md-3 img {
+    max-width: 180px;
+  }
 }
 
 .grid {
