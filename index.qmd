@@ -23,7 +23,7 @@ about:
 
 I'm a PhD candidate in Mechanical Engineering at [Ohio State's Center for Automotive Research](https://car.osu.edu/), advised by [Dr. Qadeer Ahmed](https://car.osu.edu/people/ahmed.358). My research uses reinforcement learning and physics-informed deep learning to control hybrid-electric powertrains in a way that doesn't just minimize fuel consumption — it also slows the aging of the battery, electric machine, and aftertreatment system.
 
-My PhD work is in collaboration with [Cummins Inc.](https://www.cummins.com/), where I'll be interning this summer as a Powertrain Electrification Controls Intern.
+My PhD work is in collaboration with [Cummins Inc.](https://www.cummins.com/), where I'm currently interning in the Powertrain and Electrification Controls group.
 
 I'm graduating in **December 2026** and looking for full-time roles in **AI/ML engineering, controls, or applied research** starting early 2027.
 
@@ -39,19 +39,19 @@ I'm graduating in **December 2026** and looking for full-time roles in **AI/ML e
 
 ## News
 
-- **May 03, 2026** -- Paper *Physics-Aware Deep RL for Energy and Aging Management* accepted at *IEEE Transactions on Transportation Electrification*
-- **Apr 2026** -- Joining [Cummins Inc.](https://www.cummins.com/) as a **Powertrain Electrification Controls Intern** for Summer 2026
-- **Feb 06, 2026** -- Submitted *Physics-Aware Deep RL* journal paper for review
-- **Jan 19, 2026** -- Paper *Learning Battery Aging Dynamics using Physics-Informed Transformer* accepted at *IEEE TTE*
-- **Dec 17, 2025** -- Submitted *Physics-Informed Transformer* journal paper to *IEEE TTE*
+- I'm interning at [Cummins](https://www.cummins.com/) this summer in the Powertrain and Electrification Controls group.
+- Our paper *Physics-Aware Deep Reinforcement Learning for Energy and Aging Management* was accepted at *IEEE Transactions on Transportation Electrification* (May 2026).
+- Our paper *Learning Battery Aging Dynamics using Physics-Informed Transformer* was accepted at *IEEE TTE* (January 2026).
+- I'm graduating in December 2026 and starting to look for full-time roles in AI/ML, controls, or applied research for early 2027.
 
 <details>
 <summary>Older News</summary>
 
-- **Jun 19, 2025** -- Presented at [IEEE ITEC 2025](https://itec-conf.com/), Anaheim, CA
-- **Apr 09, 2025** -- Presented at [SAE WCX 2025](https://wcx.sae.org/), Detroit, MI
-- **Dec 2024** -- Submitted paper to IEEE ITEC 2025
-- **Sep 2024** -- Submitted paper to SAE WCX 2025
+- Submitted *Physics-Aware Deep RL* journal paper for review (February 2026).
+- Submitted *Physics-Informed Transformer* journal paper to *IEEE TTE* (December 2025).
+- Presented work on aging model robustness for heavy-duty EVs at [IEEE ITEC 2025](https://itec-conf.com/) in Anaheim, CA (June 2025).
+- Presented work on powertrain aging model selection at [SAE WCX 2025](https://wcx.sae.org/) in Detroit, MI (April 2025).
+- Submitted papers to IEEE ITEC 2025 (December 2024) and SAE WCX 2025 (September 2024).
 
 </details>
 
