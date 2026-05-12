@@ -90,6 +90,33 @@ ul li strong {
   color: #c41230;
 }
 
+/* Collapsible Older News (and any other <details> blocks) */
+details {
+  margin: 1em 0;
+}
+
+details summary {
+  cursor: pointer;
+  font-weight: 600;
+  color: #c41230;
+  padding: 0.4em 0;
+  list-style: none;
+}
+
+details summary::-webkit-details-marker {
+  display: none;
+}
+
+details summary::before {
+  content: "▸ ";
+  display: inline-block;
+  width: 1em;
+}
+
+details[open] summary::before {
+  content: "▾ ";
+}
+
 /* Navbar tweaks */
 .navbar {
   font-size: 0.95rem;

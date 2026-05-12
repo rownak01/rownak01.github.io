@@ -29,58 +29,31 @@ I am seeking full-time roles in **AI/ML engineering**, **controls engineering**,
 
 ---
 
-## Highlights
+## Research Interests
 
-- **88% reduction** in battery cycling degradation through physics-aware RL control, while staying within 1.1--4.8% of the fuel-optimal benchmark
-- **2.96% prediction error** on battery capacity fade using a Physics-Informed Transformer, outperforming LSTM and standard Transformer baselines across 17 cells from 5 datasets
-- **13+ publications** including IEEE, SAE, and journal papers — 7 as first author
-- **5+ years** of research at the intersection of AI/ML, control systems, and electrified powertrains
-- **Industry collaboration** with Cummins Inc. delivering technical milestones on heavy-duty Class 8 series-hybrid platforms
-- **Cross-domain expertise** spanning reinforcement learning, Transformer architectures, physics-based modeling, and multi-objective optimization
-
----
-
-## Technical Skills
-
-| Category | Skills |
-|----------|--------|
-| **Languages** | Python, MATLAB, C, C++ |
-| **AI/ML** | PyTorch, TensorFlow, Scikit-learn; Transformers, RNN/LSTM; RL (SAC, PPO, TD3, GRPO, DDPG) |
-| **Optimization** | Dynamic Programming, MINLP, MDP, NSGA-II, CasADi |
-| **Modeling & Sim** | MATLAB/Simulink, Physics-based aging models (Battery, EM, Aftertreatment), Powertrain simulation |
-| **Tools** | Git, LaTeX, CUDA, Docker, AutoCAD, SOLIDWORKS |
-
----
-
-## Education
-
-**The Ohio State University** | Columbus, OH
-
-- Ph.D. in Mechanical Engineering | Jan 2021 -- Dec 2026 (expected)
-  - Dissertation: *Aging-Aware Learning-Based Control for Electrified Powertrains*
-  - Advisor: [Dr. Qadeer Ahmed](https://car.osu.edu/people/ahmed.358)
-- M.S. in Mechanical Engineering | Dec 2023
-  - Thesis: *Uncertainty in Multi-Objective Optimization: Weighted Entropy and Partition-Based Uncertainty Reduction*
-  - Advisor: [Dr. Carol Smidts](https://mae.osu.edu/people/smidts.1)
-
-**Bangladesh University of Engineering & Technology (BUET)** | Dhaka, Bangladesh
-
-- B.S. in Mechanical Engineering | 2014 -- 2018
+- **Deep reinforcement learning** for energy and aging management
+- **Physics-informed deep learning** for system identification and prognostics
+- **Multi-objective optimization** for electrified powertrains
 
 ---
 
 ## News
 
-- **May 03, 2026** -- Our paper "Physics-Aware Deep Reinforcement Learning for Energy and Aging Management in Electrified Powertrains" accepted at *IEEE Transactions on Transportation Electrification*
-- **Apr 2026** -- Joining [Cummins Inc.](https://www.cummins.com/) as a **Powertrain Electrification Controls Intern** in Columbus, IN for Summer 2026
-- **Mar 31, 2026** -- Submitted "Ranking-Augmented On-Policy Optimization with Adaptive Advantage-Normalization for Constrained Control" to [IEEE CDC 2026](https://cdc2026.ieeecss.org/) (Honolulu, Hawaii)
-- **Feb 06, 2026** -- Submitted "Physics-Aware Deep Reinforcement Learning for Energy and Aging Management in Electrified Powertrains" for journal review
-- **Jan 19, 2026** -- Our paper "Learning Battery Aging Dynamics using Physics-Informed Transformer" accepted at *IEEE Transactions on Transportation Electrification*
-- **Dec 17, 2025** -- Submitted "Learning Battery Aging Dynamics using Physics-Informed Transformer" to *IEEE Transactions on Transportation Electrification*
-- **Jun 19, 2025** -- Our work on aging model robustness for heavy-duty EVs presented at [IEEE ITEC 2025](https://itec-conf.com/), Anaheim, CA
-- **Apr 09, 2025** -- Our work on powertrain aging model selection presented at [SAE WCX 2025](https://wcx.sae.org/), Detroit, MI
+- **May 03, 2026** -- Paper *Physics-Aware Deep RL for Energy and Aging Management* accepted at *IEEE Transactions on Transportation Electrification*
+- **Apr 2026** -- Joining [Cummins Inc.](https://www.cummins.com/) as a **Powertrain Electrification Controls Intern** for Summer 2026
+- **Feb 06, 2026** -- Submitted *Physics-Aware Deep RL* journal paper for review
+- **Jan 19, 2026** -- Paper *Learning Battery Aging Dynamics using Physics-Informed Transformer* accepted at *IEEE TTE*
+- **Dec 17, 2025** -- Submitted *Physics-Informed Transformer* journal paper to *IEEE TTE*
+
+<details>
+<summary>Older News</summary>
+
+- **Jun 19, 2025** -- Presented at [IEEE ITEC 2025](https://itec-conf.com/), Anaheim, CA
+- **Apr 09, 2025** -- Presented at [SAE WCX 2025](https://wcx.sae.org/), Detroit, MI
 - **Dec 2024** -- Submitted paper to IEEE ITEC 2025
 - **Sep 2024** -- Submitted paper to SAE WCX 2025
+
+</details>
 
 ---
 
@@ -132,6 +105,12 @@ I am seeking full-time roles in **AI/ML engineering**, **controls engineering**,
 :::
 
 [See all publications →](publications.qmd)
+
+---
+
+## Beyond Research
+
+Outside of research, I enjoy traveling, long walks, and photography.
 
 ---
 
