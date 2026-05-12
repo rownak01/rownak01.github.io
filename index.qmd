@@ -81,3 +81,11 @@ I am seeking full-time roles in **AI/ML engineering**, **controls engineering**,
 - **Apr 09, 2025** -- Our work on powertrain aging model selection presented at [SAE WCX 2025](https://wcx.sae.org/), Detroit, MI
 - **Dec 2024** -- Submitted paper to IEEE ITEC 2025
 - **Sep 2024** -- Submitted paper to SAE WCX 2025
+
+---
+
+## Visitors
+
+A small dot for every visitor.
+
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=EtVVmR3otOeDudN-9jHh1ZEaqp9ADskMZ4nu6pdWW6c&cl=ffffff&w=a"></script>
