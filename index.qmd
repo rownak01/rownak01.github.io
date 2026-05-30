@@ -23,7 +23,7 @@ about:
 
 I'm a PhD candidate in Mechanical Engineering at [Ohio State's Center for Automotive Research](https://car.osu.edu/), advised by [Dr. Qadeer Ahmed](https://car.osu.edu/people/ahmed.358). My research uses reinforcement learning and physics-informed deep learning to control hybrid-electric powertrains in a way that doesn't just minimize fuel consumption — it also slows the aging of the battery, electric machine, and aftertreatment system.
 
-My PhD work is in collaboration with [Cummins Inc.](https://www.cummins.com/), where I'm currently interning in the Powertrain Electrification Controls (PTEC) group.
+My PhD work is in collaboration with [Cummins Inc.](https://www.cummins.com/), where I'm currently interning in the Powertrain and Electrification Controls (PTEC) group.
 
 I'm graduating in **December 2026** and looking for full-time roles in **AI/ML engineering, controls, or applied research** starting early 2027.
 
@@ -39,7 +39,7 @@ I'm graduating in **December 2026** and looking for full-time roles in **AI/ML e
 
 ## News
 
-- I'm interning at [Cummins](https://www.cummins.com/) this summer in the Powertrain Electrification Controls (PTEC) group, working on adaptive cruise control modeling and simulation for heavy-duty electric vehicles.
+- I'm interning at [Cummins](https://www.cummins.com/) this summer in the Powertrain and Electrification Controls (PTEC) group, working on adaptive cruise control modeling and simulation for heavy-duty electric vehicles.
 - Our paper *Physics-Aware Deep Reinforcement Learning for Energy and Aging Management* was accepted at *IEEE Transactions on Transportation Electrification* (May 2026).
 - Our paper *Learning Battery Aging Dynamics using Physics-Informed Transformer* was accepted at *IEEE TTE* (January 2026).
 - I'm graduating in December 2026 and starting to look for full-time roles in AI/ML, controls, or applied research for early 2027.
