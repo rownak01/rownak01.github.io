@@ -28,7 +28,7 @@ You can download my full CV here: [Download CV (PDF)](files/CV_rownak.pdf){targe
 ### Powertrain and Electrification Controls (PTEC) Intern
 *Cummins Inc.* | Summer 2026 | Columbus, IN
 
-- Intern in the Powertrain and Electrification Controls (PTEC) group at Cummins.
+- Working in the Powertrain and Electrification Controls (PTEC) group on adaptive cruise control modeling and simulation for heavy-duty electric vehicles.
 
 ### Graduate Research Associate
 *The Ohio State University, Center for Automotive Research* | Jan 2021 -- Dec 2025
