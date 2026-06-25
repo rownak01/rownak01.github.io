@@ -39,6 +39,8 @@ I'm graduating in **December 2026** and looking for full-time roles in **AI/ML e
 
 ## News
 
+- I was awarded the **Graduate Fellow Award** by the Department of Mechanical and Aerospace Engineering at Ohio State for Autumn 2026.
+- I am now a peer reviewer for *IEEE Transactions on Transportation Electrification*.
 - I'm interning at [Cummins](https://www.cummins.com/) this summer in the Powertrain and Electrification Controls (PTEC) group, working on adaptive cruise control modeling and simulation for heavy-duty electric vehicles.
 - Our paper *Physics-Aware Deep Reinforcement Learning for Energy and Aging Management* was accepted at *IEEE Transactions on Transportation Electrification* (May 2026).
 - Our paper *Learning Battery Aging Dynamics using Physics-Informed Transformer* was accepted at *IEEE TTE* (January 2026).

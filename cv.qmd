@@ -28,7 +28,10 @@ You can download my full CV here: [Download CV (PDF)](files/CV_rownak.pdf){targe
 ### Powertrain and Electrification Controls (PTEC) Intern
 *Cummins Inc.* | Summer 2026 | Columbus, IN
 
-- Working in the Powertrain and Electrification Controls (PTEC) group on adaptive cruise control modeling and simulation for heavy-duty electric vehicles.
+- Analyze operational data from heavy-duty commercial truck fleets to assess the hybridization opportunity for a P2 power-split architecture, characterizing adaptive cruise control usage patterns and quantifying recoverable braking energy from ACC-following scenarios.
+- Build a MATLAB pipeline to decode and process multi-channel vehicle CAN bus logs, enabling fleet-scale identification of adaptive cruise control engagement modes across engine programs.
+- Develop a physics-informed surrogate model of a heavy-duty truck adaptive cruise control decision layer, combining a car-following physics base with a data-driven residual correction to predict the controller's desired acceleration.
+- Formulate a dynamic-programming framework to compute the fuel-optimal energy-management strategy for a Class 8 power-split hybrid powertrain, serving as the optimal benchmark for evaluating real-time hybrid controllers.
 
 ### Graduate Research Associate
 *The Ohio State University, Center for Automotive Research* | Jan 2021 -- Dec 2025
@@ -91,5 +94,12 @@ You can download my full CV here: [Download CV (PDF)](files/CV_rownak.pdf){targe
 
 ## Awards
 
+- Graduate Fellow Award, Dept. of Mechanical and Aerospace Engineering, The Ohio State University (Autumn 2026)
 - University Merit Scholarship, Dept. of Mechanical Engineering, BUET (2014)
 - Dean's List Award, Dept. of Mechanical Engineering, BUET (2015, 2017)
+
+---
+
+## Professional Service
+
+- Peer Reviewer, *IEEE Transactions on Transportation Electrification* (2026)
