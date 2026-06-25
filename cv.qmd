@@ -41,6 +41,7 @@ You can download my full CV here: [Download CV (PDF)](files/CV_rownak.pdf){targe
 - Built and validated **physics-based aging models** for battery, electric machine, and aftertreatment system, integrated into a forward-looking MATLAB/Simulink powertrain simulator.
 - Created a **Dynamic Programming** benchmarking framework to evaluate RL policy quality and generate expert trajectories for accelerated training.
 - Proposed a **critic-free policy optimization** method (A-GRPO) using Transformer policies and trajectory-level advantage ranking for long-horizon constrained control.
+- Demonstrated **embedded controller deployment** of trained RL policies on a Speedgoat real-time target in a controller hardware-in-the-loop (C-HIL) testbench (plant: dSPACE SCALEXIO, communication: CAN), reproducing training-time control behavior across 12 deployment runs with less than 1.34% fuel error.
 - Delivered technical results to **Cummins Inc.** through regular milestone reviews and progress reporting.
 - Designed a **multi-criteria sensor selection framework** for nuclear facility online monitoring systems.
 - Developed a **VR-based experimental framework** for human reliability assessment under physical security threats.
