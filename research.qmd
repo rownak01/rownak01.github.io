@@ -12,7 +12,7 @@ I develop deep reinforcement learning frameworks (SAC, PPO, GRPO) that jointly o
 
 **Key results:**
 
-- Fuel consumption within **1.1--4.8%** of the dynamic programming (DP) optimum
+- Fuel consumption within **1.1 to 4.8%** of the dynamic programming (DP) optimum
 - Battery cycling degradation reduced by up to **88%**
 - Generator lifetime loss reduced by up to **26.3%**
 - Validated on heavy-duty **Class 8 series-hybrid** drive cycles in collaboration with **Cummins Inc.**
@@ -23,6 +23,7 @@ I develop deep reinforcement learning frameworks (SAC, PPO, GRPO) that jointly o
 - **Critic-Free Policy Optimization (A-GRPO):** Eliminates the critic network using trajectory-level advantage ranking with Transformer policies for long-horizon constrained control
 - **Sequence-Aware Architectures:** GRU and Decision Transformer-based policies for temporal reasoning in energy management
 - **DP Benchmarking Framework:** Dynamic Programming as a reference for RL policy evaluation and expert trajectory generation to accelerate training
+- **Embedded C-HIL Deployment:** Trained PA-SAC policies deployed on a Speedgoat real-time controller in a hardware-in-the-loop testbench, reproducing training-time control behavior across multiple drive cycles and agents
 
 ---
 

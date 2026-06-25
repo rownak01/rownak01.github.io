@@ -10,7 +10,7 @@ You can download my full CV here: [Download CV (PDF)](files/CV_rownak.pdf){targe
 
 **The Ohio State University** | Columbus, OH
 
-- Ph.D. in Mechanical Engineering | Jan 2021 -- Dec 2026 (expected)
+- Ph.D. in Mechanical Engineering | Jan 2021 to Dec 2026 (expected)
   - Dissertation: *Aging-Aware Learning-Based Control for Electrified Powertrains*
   - Advisor: [Dr. Qadeer Ahmed](https://car.osu.edu/people/ahmed.358)
 - M.S. in Mechanical Engineering | Dec 2023
@@ -34,9 +34,9 @@ You can download my full CV here: [Download CV (PDF)](files/CV_rownak.pdf){targe
 - Formulate a dynamic-programming framework to compute the fuel-optimal energy-management strategy for a Class 8 power-split hybrid powertrain, serving as the optimal benchmark for evaluating real-time hybrid controllers.
 
 ### Graduate Research Associate
-*The Ohio State University, Center for Automotive Research* | Jan 2021 -- Dec 2025
+*The Ohio State University, Center for Automotive Research* | Jan 2021 to Dec 2025
 
-- Designed **physics-aware deep reinforcement learning** (SAC, PPO, GRPO) frameworks for hybrid-electric powertrain energy management, achieving fuel consumption within 1.1--4.8% of the dynamic programming optimum while reducing battery degradation by up to 88%.
+- Designed **physics-aware deep reinforcement learning** (SAC, PPO, GRPO) frameworks for hybrid-electric powertrain energy management, achieving fuel consumption within 1.1 to 4.8% of the dynamic programming optimum while reducing battery degradation by up to 88%.
 - Developed a **Physics-Informed Transformer Model** for battery capacity fade prediction, reducing estimation error to 2.96% across 17 cells from 5 experimental datasets.
 - Built and validated **physics-based aging models** for battery, electric machine, and aftertreatment system, integrated into a forward-looking MATLAB/Simulink powertrain simulator.
 - Created a **Dynamic Programming** benchmarking framework to evaluate RL policy quality and generate expert trajectories for accelerated training.
@@ -47,19 +47,19 @@ You can download my full CV here: [Download CV (PDF)](files/CV_rownak.pdf){targe
 - Developed a **VR-based experimental framework** for human reliability assessment under physical security threats.
 
 ### Graduate Teaching Assistant
-*The Ohio State University* | Jan 2026 -- Present
+*The Ohio State University* | Jan 2026 to Present
 
 - Lead recitation sections and office hours for ME 3501: Introduction to Engineering Thermodynamics, supporting 100+ students in applying thermodynamic principles to engineering systems.
 
 ### Lecturer, Dept. of Mechanical Engineering
-*Bangladesh Army University of Science and Technology (BAUST)* | Jun 2019 -- Dec 2020
+*Bangladesh Army University of Science and Technology (BAUST)* | Jun 2019 to Dec 2020
 
 - Taught undergraduate courses: Numerical Analysis, Engineering Mechanics, Mechanics of Materials, and Measurement Instrumentation & Quality Control.
 - Supervised student projects including design and performance analysis of a hydrodynamic tunnel and gravitational water vortex turbine.
 - Served as Departmental Program Coordinator.
 
 ### Intern
-*Navana Group* | Mar 2018 -- Apr 2018 | Dhaka, Bangladesh
+*Navana Group* | Mar 2018 to Apr 2018 | Dhaka, Bangladesh
 
 - Industrial internship in manufacturing processes and quality control.
 

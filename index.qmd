@@ -21,7 +21,7 @@ about:
 
 ## About Me
 
-I'm a PhD candidate in Mechanical Engineering at [Ohio State's Center for Automotive Research](https://car.osu.edu/), advised by [Dr. Qadeer Ahmed](https://car.osu.edu/people/ahmed.358). My research uses reinforcement learning and physics-informed deep learning to control hybrid-electric powertrains in a way that doesn't just minimize fuel consumption — it also slows the aging of the battery, electric machine, and aftertreatment system.
+I'm a PhD candidate in Mechanical Engineering at [Ohio State's Center for Automotive Research](https://car.osu.edu/), advised by [Dr. Qadeer Ahmed](https://car.osu.edu/people/ahmed.358). My research uses reinforcement learning and physics-informed deep learning to build controllers for hybrid-electric powertrains that reduce fuel consumption while extending the life of the battery, electric machine, and aftertreatment system.
 
 My PhD work is in collaboration with [Cummins Inc.](https://www.cummins.com/), where I'm currently interning in the Powertrain and Electrification Controls (PTEC) group.
 
@@ -39,7 +39,7 @@ I'm graduating in **December 2026** and looking for full-time roles in **AI/ML e
 
 ## News
 
-- I was awarded the **Graduate Fellow Award** by the Department of Mechanical and Aerospace Engineering at Ohio State for Autumn 2026.
+- I am a **Graduate Fellow** in the Mechanical and Aerospace Engineering department at Ohio State for Autumn 2026.
 - I am now a peer reviewer for *IEEE Transactions on Transportation Electrification*.
 - I'm interning at [Cummins](https://www.cummins.com/) this summer in the Powertrain and Electrification Controls (PTEC) group, working on adaptive cruise control modeling and simulation for heavy-duty electric vehicles.
 - Our paper *Physics-Aware Deep Reinforcement Learning for Energy and Aging Management* was accepted at *IEEE Transactions on Transportation Electrification* (May 2026).
