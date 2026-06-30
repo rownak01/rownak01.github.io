@@ -89,7 +89,7 @@ You can download my full CV here: [Download CV (PDF)](files/CV_rownak.pdf){targe
 | **AI/ML** | PyTorch, TensorFlow, Scikit-learn; Transformers, RNN/LSTM; RL (SAC, PPO, TD3, GRPO, DDPG) |
 | **Optimization** | Dynamic Programming, MINLP, MDP, NSGA-II, Multi-Objective Optimization, CasADi |
 | **Modeling & Sim** | MATLAB/Simulink, LAMMPS |
-| **Tools** | Git, LaTeX, CUDA, Docker, AutoCAD, SOLIDWORKS |
+| **Tools** | LaTeX, AutoCAD, SOLIDWORKS |
 
 ---
 
