@@ -89,7 +89,7 @@ You can download my full CV here: [Download CV (PDF)](files/CV_rownak.pdf){targe
 | **Controls** | Optimal control (Dynamic Programming), energy management strategies, state estimation (SOC, battery aging), controller hardware-in-the-loop (C-HIL) validation |
 | **AI/ML** | PyTorch, TensorFlow, Scikit-learn; Transformers, RNN/LSTM, CNNs; Deep RL (SAC, PPO, TD3, GRPO, DDPG) |
 | **Optimization** | MINLP, MDP, Multi-Objective Optimization (NSGA-II), uncertainty quantification, CasADi |
-| **Modeling & Sim** | MATLAB/Simulink powertrain modeling, physics-based degradation models (battery, e-machine, aftertreatment), LAMMPS |
+| **Modeling & Sim** | MATLAB/Simulink powertrain modeling, physics-based degradation models (battery, electric machine, aftertreatment), LAMMPS |
 | **Data & Tools** | CAN bus / J1939 log decoding, NumPy, Pandas, Matplotlib, LaTeX |
 
 ---
