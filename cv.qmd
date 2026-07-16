@@ -91,7 +91,7 @@ You can download my full CV here: [Download CV (PDF)](files/CV_rownak.pdf){targe
 | **Optimization** | MINLP, MDP, Multi-Objective Optimization (NSGA-II), uncertainty quantification, CasADi |
 | **Modeling & Sim** | MATLAB/Simulink powertrain modeling, physics-based degradation models (battery, electric machine, aftertreatment), LAMMPS |
 | **Data & Tools** | CAN bus / J1939 log decoding, NumPy, Pandas, Matplotlib, LaTeX |
-| **Developer Tools** | Agentic AI coding tools (Claude Code, GitHub Copilot, OpenAI Codex) used daily; VS Code |
+| **Developer Tools** | Agentic AI coding tools (Claude Code, OpenAI Codex); GitHub Copilot; VS Code |
 
 ---
 
