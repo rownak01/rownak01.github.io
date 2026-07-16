@@ -77,7 +77,7 @@ You can download my full CV here: [Download CV (PDF)](files/CV_rownak.pdf){targe
 
 **Critic-Free RL with Group-Relative Policy Optimization** | *Python, PyTorch*
 
-- Developed A-GRPO for long-horizon constrained control tasks, eliminating the critic network while maintaining near-optimal performance; validated on powertrain control and OpenAI Gym benchmarks.
+- Developed A-GRPO for long-horizon constrained control tasks, eliminating the critic network while maintaining near-optimal performance; validated on powertrain control and OpenAI Gym benchmarks. Accepted at IEEE CDC 2026.
 
 ---
 
@@ -91,6 +91,7 @@ You can download my full CV here: [Download CV (PDF)](files/CV_rownak.pdf){targe
 | **Optimization** | MINLP, MDP, Multi-Objective Optimization (NSGA-II), uncertainty quantification, CasADi |
 | **Modeling & Sim** | MATLAB/Simulink powertrain modeling, physics-based degradation models (battery, electric machine, aftertreatment), LAMMPS |
 | **Data & Tools** | CAN bus / J1939 log decoding, NumPy, Pandas, Matplotlib, LaTeX |
+| **Developer Tools** | Agentic AI coding tools (Claude Code, GitHub Copilot, OpenAI Codex) used daily; VS Code |
 
 ---
 
