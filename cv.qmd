@@ -28,13 +28,13 @@ You can download my full CV here: [Download CV (PDF)](files/CV_rownak.pdf){targe
 ### Powertrain and Electrification Controls (PTEC) Intern
 *Cummins Inc.* | Summer 2026 | Columbus, IN
 
-- Analyze operational data from heavy-duty commercial truck fleets to assess the hybridization opportunity for a P2 power-split architecture, characterizing adaptive cruise control usage patterns and quantifying recoverable braking energy from ACC-following scenarios.
-- Build a MATLAB pipeline to decode and process multi-channel vehicle CAN bus logs, enabling fleet-scale identification of adaptive cruise control engagement modes across engine programs.
-- Develop a physics-informed surrogate model of a heavy-duty truck adaptive cruise control decision layer, combining a car-following physics base with a data-driven residual correction to predict the controller's desired acceleration.
-- Formulate a dynamic-programming framework to compute the fuel-optimal energy-management strategy for a Class 8 power-split hybrid powertrain, serving as the optimal benchmark for evaluating real-time hybrid controllers.
+- Analyzed operational data from heavy-duty commercial truck fleets to assess the hybridization opportunity for a P2 power-split architecture, characterizing adaptive cruise control usage patterns and quantifying recoverable braking energy from ACC-following scenarios.
+- Built a MATLAB pipeline to decode and process multi-channel vehicle CAN bus logs, enabling fleet-scale identification of adaptive cruise control engagement modes across engine programs.
+- Developed a physics-informed surrogate model of a heavy-duty truck adaptive cruise control decision layer, combining a car-following physics base with a data-driven residual correction to predict the controller's desired acceleration.
+- Formulated a dynamic-programming framework to compute the fuel-optimal energy-management strategy for a Class 8 power-split hybrid powertrain, serving as the optimal benchmark for evaluating real-time hybrid controllers.
 
 ### Graduate Research Associate
-*The Ohio State University, Center for Automotive Research* | Jan 2021 to Dec 2025
+*The Ohio State University, Center for Automotive Research* | Jan 2021 to Dec 2025, Aug 2026 to Present
 
 - Designed **physics-aware deep reinforcement learning** (SAC, PPO, GRPO) frameworks for hybrid-electric powertrain energy management, achieving fuel consumption within 1.1 to 4.8% of the dynamic programming optimum while reducing battery degradation by up to 88%.
 - Developed a **Physics-Informed Transformer Model** for battery capacity fade prediction, reducing estimation error to 2.96% across 17 cells from 5 experimental datasets.
@@ -106,3 +106,5 @@ You can download my full CV here: [Download CV (PDF)](files/CV_rownak.pdf){targe
 ## Professional Service
 
 - Peer Reviewer, *IEEE Transactions on Transportation Electrification* (2026)
+- Peer Reviewer, *IEEE Transportation Electrification Conference & Expo (ITEC)* (2026)
+- Peer Reviewer, *23rd IFAC World Congress*, Busan, Korea (2026)
