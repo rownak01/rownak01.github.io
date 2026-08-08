@@ -26,7 +26,7 @@ You can download my full CV here: [Download CV (PDF)](files/CV_rownak.pdf){targe
 ## Professional Experience
 
 ### Powertrain and Electrification Controls (PTEC) Intern
-*Cummins Inc.* | Summer 2026 | Columbus, IN
+*Cummins Inc.* | May 2026 to Aug 2026 | Columbus, IN
 
 - Analyzed operational data from heavy-duty commercial truck fleets to assess the hybridization opportunity for a P2 power-split architecture, characterizing adaptive cruise control usage patterns and quantifying recoverable braking energy from ACC-following scenarios.
 - Built a MATLAB pipeline to decode and process multi-channel vehicle CAN bus logs, enabling fleet-scale identification of adaptive cruise control engagement modes across engine programs.
