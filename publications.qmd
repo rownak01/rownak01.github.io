@@ -20,7 +20,7 @@ title: "Publications"
 
 ## Co-Authored: Electrified Powertrains
 
-6. W. Jaleel, **M.R. Rownak**, A. Hanif, S.G. Bhatti, & Q. Ahmed (2026). "Sequence Aware SAC Control for Engine Fuel Consumption Optimization in Electrified Powertrain." *Accepted, American Control Conference (ACC) 2026.* [arXiv:2508.04874](https://arxiv.org/abs/2508.04874)
+6. W. Jaleel, **M.R. Rownak**, A. Hanif, S.G. Bhatti, & Q. Ahmed (2026). "Sequence Aware Soft Actor-Critic Control Agents for Series Electrified Powertrain." *2026 American Control Conference (ACC)*, pp. 3079-3084. [arXiv:2508.04874](https://arxiv.org/abs/2508.04874)
 
 ## First-Author: Human Reliability & Optimization
 
