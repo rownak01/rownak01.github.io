@@ -39,7 +39,7 @@ I'm graduating in **December 2026** and looking for full-time roles in **AI/ML e
 
 ## News
 
-- Our paper *Ranking-Augmented On-Policy Optimization with Adaptive Advantage-Normalization for Constrained Control* was accepted at the *2026 IEEE Conference on Decision and Control (CDC)* (July 2026).
+- Our paper *Ranking-Augmented On-Policy Optimization with Adaptive Advantage-Normalization for Constrained Control* was accepted at the *2026 IEEE Conference on Decision and Control (CDC)* (July 2026). The preprint is now on arXiv: [arXiv:2608.15359](https://arxiv.org/abs/2608.15359).
 - I am a **Graduate Fellow** in the Mechanical and Aerospace Engineering department at Ohio State for Autumn 2026.
 - I completed my Powertrain and Electrification Controls (PTEC) internship at [Cummins](https://www.cummins.com/) in August 2026 and am back at the Center for Automotive Research as a Graduate Research Associate.
 - I am now a peer reviewer for *IEEE Transactions on Transportation Electrification*, *IEEE ITEC*, and the *23rd IFAC World Congress*.
