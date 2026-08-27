@@ -77,7 +77,7 @@ You can download my full CV here: [Download CV (PDF)](files/CV_rownak.pdf){targe
 
 **Critic-Free RL with Group-Relative Policy Optimization** | *Python, PyTorch*
 
-- Developed A-GRPO for long-horizon constrained control tasks, eliminating the critic network while maintaining near-optimal performance; validated on powertrain control and OpenAI Gym benchmarks. Accepted at IEEE CDC 2026.
+- Developed A-GRPO for long-horizon constrained control tasks, eliminating the critic network via trajectory-level advantage ranking with a Transformer-encoder actor; reached 75.4% mean sustained terminal-constraint feasibility versus 27.4% for a PPO-Lagrangian baseline, with return within 3.7% of the dynamic programming optimum. Accepted at IEEE CDC 2026.
 
 ---
 
