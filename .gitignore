@@ -7,4 +7,4 @@
 Thumbs.db
 
 **/*.quarto_ipynb
-private/
+private
