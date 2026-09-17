@@ -10,7 +10,7 @@ You can download my full CV here: [Download CV (PDF)](files/CV_rownak.pdf){targe
 
 **The Ohio State University** | Columbus, OH
 
-- Ph.D. in Mechanical Engineering | Jan 2021 to Dec 2026 (expected)
+- Ph.D. in Mechanical Engineering | Jan 2024 to Dec 2026 (expected)
   - Dissertation: *Aging-Aware Learning-Based Control for Electrified Powertrains*
   - Advisor: [Dr. Qadeer Ahmed](https://car.osu.edu/people/ahmed.358)
 - M.S. in Mechanical Engineering | Dec 2023
@@ -34,7 +34,7 @@ You can download my full CV here: [Download CV (PDF)](files/CV_rownak.pdf){targe
 - Formulated a dynamic-programming framework to compute the fuel-optimal energy-management strategy for a Class 8 power-split hybrid powertrain, serving as the optimal benchmark for evaluating real-time hybrid controllers.
 
 ### Graduate Research Associate
-*The Ohio State University, Center for Automotive Research* | Jan 2021 to Dec 2025, Aug 2026 to Present
+*The Ohio State University, Center for Automotive Research* | Jan 2024 to Dec 2025, Aug 2026 to Present
 
 - Designed **physics-aware deep reinforcement learning** (SAC, PPO, GRPO) frameworks for hybrid-electric powertrain energy management, achieving fuel consumption within 1.1 to 4.8% of the dynamic programming optimum while reducing battery degradation by up to 88%.
 - Developed a **Physics-Informed Transformer Model** for battery capacity fade prediction, reducing estimation error to 2.96% across 17 cells from 5 experimental datasets.
@@ -43,6 +43,10 @@ You can download my full CV here: [Download CV (PDF)](files/CV_rownak.pdf){targe
 - Proposed a **critic-free policy optimization** method (A-GRPO) using Transformer policies and trajectory-level advantage ranking for long-horizon constrained control.
 - Demonstrated **embedded controller deployment** of trained RL policies on a Speedgoat real-time target in a controller hardware-in-the-loop (C-HIL) testbench (plant: dSPACE SCALEXIO, communication: CAN), reproducing training-time control behavior across 12 deployment runs with less than 1.34% fuel error.
 - Collaborated with **Cummins Inc.** engineers through **weekly technical meetings** and quarterly milestone reviews, covering model validation and progress reporting.
+
+### Graduate Research Associate
+*The Ohio State University* | Jan 2021 to Dec 2023
+
 - Designed a **multi-criteria sensor selection framework** for nuclear facility online monitoring systems.
 - Developed a **VR-based experimental framework** for human reliability assessment under physical security threats.
 

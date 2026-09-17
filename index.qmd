@@ -25,7 +25,7 @@ I'm a PhD candidate in Mechanical Engineering at [Ohio State's Center for Automo
 
 My PhD work is in collaboration with [Cummins Inc.](https://www.cummins.com/), where I interned in the Powertrain and Electrification Controls (PTEC) group during summer 2026.
 
-I'm graduating in **December 2026** and looking for full-time roles in **AI/ML engineering, controls, or applied research** starting early 2027.
+I'm graduating in **December 2026** and looking for full-time roles in **electrified powertrain controls, energy management, and AI/ML for transportation and energy systems** starting early 2027.
 
 ---
 
@@ -46,7 +46,7 @@ I'm graduating in **December 2026** and looking for full-time roles in **AI/ML e
 - I interned at [Cummins](https://www.cummins.com/) over summer 2026 in the Powertrain and Electrification Controls (PTEC) group, working on adaptive cruise control modeling and simulation for heavy-duty electric vehicles.
 - Our paper *Physics-Aware Deep Reinforcement Learning for Energy and Aging Management* was accepted at *IEEE Transactions on Transportation Electrification* (May 2026).
 - Our paper *Learning Battery Aging Dynamics using Physics-Informed Transformer* was accepted at *IEEE TTE* (January 2026).
-- I'm graduating in December 2026 and starting to look for full-time roles in AI/ML, controls, or applied research for early 2027.
+- I'm graduating in December 2026 and starting to look for full-time roles in electrified powertrain controls, energy management, and AI/ML for transportation and energy systems, starting early 2027.
 
 <details>
 <summary>Older News</summary>
