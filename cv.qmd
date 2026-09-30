@@ -50,7 +50,7 @@ You can download my full CV here: [Download CV (PDF)](files/CV_rownak.pdf){targe
 - Designed a **multi-criteria sensor selection framework** for nuclear facility online monitoring systems.
 - Developed a **VR-based experimental framework** for human reliability assessment under physical security threats.
 
-### Graduate Teaching Assistant
+### Graduate Teaching Associate
 *The Ohio State University* | Jan 2026 to Apr 2026
 
 - Led recitation sections and office hours for ME 3501: Introduction to Engineering Thermodynamics, supporting 100+ students in applying thermodynamic principles to engineering systems.
